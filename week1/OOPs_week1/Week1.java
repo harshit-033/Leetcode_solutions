@@ -59,7 +59,7 @@ class AdultUser implements LibraryUser
         }
         else
         {
-            System.out.println("Oops, you are allowed to take only adult Fiction books");
+            System.out.println("Oops, you are allowed to take only adult Fiction books ");
         }
     }
 }

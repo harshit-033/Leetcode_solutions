@@ -15,7 +15,6 @@ void moveZeroes(int* nums, int numsSize) {
             i++;
         }
     }
-
     for(int i=0;i<numsSize;i++){
         nums[i]=arr[i];
     }
